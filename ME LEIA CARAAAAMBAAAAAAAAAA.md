@@ -1,5 +1,5 @@
 Bem-vindos... Ao ✨MEU PERFIL✨.
-Meu nome é Heliel Marques
+Meu nome é Heliel Marques (mas prefiro que me chamem de Helisaurus por aqui)
 
 Estou estudando na benção da Alura
 Estou me desenvolvendo na linguagem JavaScript (pelo menos, tentando)
